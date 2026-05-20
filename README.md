@@ -47,7 +47,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/gunicorn.svg" width="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-<img src="https://www.cloud-awards.com/wp-content/uploads/2023/09/Vercel-Logo-300x300.png" width="40"/>
+<img src="https://img.favpng.com/4/24/5/vercel-logo-Ktvp2MN7_t.jpg" width="40"/>
 <img src="https://images.seeklogo.com/logo-png/65/2/cloudinary-logo-png_seeklogo-653240.png" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 </p>
