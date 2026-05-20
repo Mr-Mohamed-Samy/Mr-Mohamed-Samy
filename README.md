@@ -9,8 +9,7 @@
 - 🎓 Computer Science student specializing in **Artificial Intelligence**
 - ⚡ I build and deploy full-stack applications with production-ready backend systems
 - 💬 Ask me about **React, Django, APIs, Backend Architecture**
-- 📫 Reach me at: **chabanimohamedsamy@gmail.com**
-
+- 📫 Reach me at **chabanimohamedsamy@gmail.com**
 - 🌐 Portfolio: https://samydev.tech
 
 ---
@@ -18,30 +17,29 @@
 ## 🧠 Tech Stack
 
 ### Frontend
-- React
-- JavaScript
-- HTML / CSS
-- Tailwind CSS
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+</p>
 
 ### Backend
-- Django
-- Django REST Framework
-- PostgreSQL
-- Redis
-- JWT Authentication
+<p align="left">
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/>
+</p>
 
 ### Deployment & Infrastructure
-- Gunicorn (WSGI Server)
-- Nginx (Reverse Proxy)
-- VPS (Linux Server Deployment)
-- Vercel (Frontend Hosting)
-- Cloudinary (Media Storage)
-
-### Tools
-- Git & GitHub
-- Postman
-- Linux
-- REST APIs
+<p align="left">
+<img src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+</p>
 
 ---
 
@@ -55,10 +53,10 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/chabani-samy" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
 
 <a href="https://fb.com/chabani.mohamed.samy" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="40"/>
 </a>
 </p>
