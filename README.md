@@ -48,7 +48,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/cloudinary/cloudinary-icon.svg" width="40"/>
+<img src="https://images.seeklogo.com/logo-png/65/2/cloudinary-logo-png_seeklogo-653240.png" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 </p>
 
