@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+Django+%26+React;AI+Student+%7C+Backend+%26+Deployment+Enthusiast;I+build+and+deploy+production-ready+web+apps" />
 </p>
 
-<h3 align="center">Full-Stack Developer (Django / React) | AI Student | Backend & Deployment Enthusiast</h3>
+<h3 align="center">Full-Stack Developer (Django / React) | AI Student | Backend, Frontend & Deployment Enthusiast</h3>
 
 ---
 
