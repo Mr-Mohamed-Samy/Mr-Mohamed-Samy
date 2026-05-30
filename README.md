@@ -38,21 +38,9 @@ CS student at **Université Batna 2**, specializing in AI. I build and ship full
 
 - JWT cookie auth with silent token rotation middleware
 - Cursor-based pagination with `{ data, error, nextCursor }` response envelope
-- Split view architecture — organized vs. customized packages & reservations
+- Split view architecture, organized vs. customized packages & reservations
 - drf-spectacular Swagger docs with per-resource tags and access-level labels
 - Cloudinary media with automatic cleanup on delete
-
----
-
-### Stats
-
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=chabani-samy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e2e8f0&icon_color=4ade80&text_color=64748b&ring_color=3b82f6" />
-&nbsp;&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chabani-samy&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e2e8f0&text_color=64748b" />
-
-</div>
 
 ---
 
