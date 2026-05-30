@@ -8,12 +8,6 @@
 <!--TERMINAL HERO-->
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  ~/samy  on  ⎇ main  $  cat README.md                       │
-└─────────────────────────────────────────────────────────────┘
-```
-
 <h1>Chabani Samy</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Django+%26+React;AI+Student+%7C+Université+Batna+2;Building+production-ready+backends+%26+APIs;Currently+building+OrcaTravel+🌍" />
