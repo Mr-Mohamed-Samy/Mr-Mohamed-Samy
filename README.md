@@ -1,148 +1,61 @@
 <div align="center">
 
-<!--HEADER-->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1e3a5f,100:0a0a0f&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=4&section=header" width="100%"/>
 
-</div>
+# Chabani Samy
 
-<!--TERMINAL HERO-->
-<div align="center">
+**Full-Stack Developer · AI Student · Backend Engineer**
 
-<h1>Chabani Samy</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Django+%26+React;AI+Student+%7C+Université+Batna+2;Building+production-ready+backends+%26+APIs;Currently+building+OrcaTravel+🌍" />
-
-<br/>
-
-![Django](https://img.shields.io/badge/Django-REST-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-VPS-FCC624?style=flat-square&logo=linux&logoColor=black)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1200&color=4ADE80&center=true&vCenter=true&width=500&lines=Django+REST+Framework+%7C+React;JWT+auth+%7C+cursor+pagination+%7C+REST+APIs;VPS+deployment+%7C+Nginx+%7C+Gunicorn;Currently+building+OrcaTravel+🌍)](https://samydev.tech)
 
 </div>
 
 ---
 
-## `// about`
-
-```python
-class Developer:
-    name       = "Chabani Samy"
-    university = "Université Batna 2 — CS / AI"
-    focus      = ["backend architecture", "REST APIs", "VPS deployment"]
-    ask_me     = ["Django REST Framework", "React", "API Design"]
-    email      = "chabanimohamedsamy@gmail.com"
-    portfolio  = "https://samydev.tech"
-    status     = "🟢 building OrcaTravel"
-```
+**`chabanimohamedsamy@gmail.com`** · **[samydev.tech](https://samydev.tech)** · [LinkedIn](https://linkedin.com/in/chabani-samy) · [Facebook](https://fb.com/chabani.mohamed.samy)
 
 ---
 
-## `// stack`
+### About
 
-### 🎨 Frontend
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36" title="React"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" title="JavaScript"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="36" title="HTML5"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="36" title="CSS3"/>
-&nbsp;
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="36" title="Tailwind CSS"/>
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="36" title="Django"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" title="Python"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="36" title="PostgreSQL"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="36" title="Redis"/>
-</p>
-
-### 🚀 Infra & Deployment
-
-<p>
-<img src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" width="36" title="Nginx"/>
-&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/gunicorn.svg" width="36" title="Gunicorn"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" title="Linux"/>
-&nbsp;
-<img src="https://img.favpng.com/4/24/5/vercel-logo-Ktvp2MN7_t.jpg" width="36" title="Vercel"/>
-&nbsp;
-<img src="https://images.seeklogo.com/logo-png/65/2/cloudinary-logo-png_seeklogo-653240.png" width="36" title="Cloudinary"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" title="Git"/>
-</p>
+CS student at **Université Batna 2**, specializing in AI. I build and ship full-stack web apps with production-grade backend systems — JWT auth, cursor-based pagination, structured API responses, VPS deployment. Currently deep in **OrcaTravel**, a travel booking platform built with React + Django REST Framework.
 
 ---
 
-## `// featured project`
+### Stack
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│  🌍  OrcaTravel                                              │
-│  ─────────────────────────────────────────────────────────── │
-│  React + Django REST Framework · PostgreSQL · JWT · Redis    │
-│                                                              │
-│  Full-stack travel booking platform.                         │
-│  ✦ Cursor-paginated APIs                                     │
-│  ✦ JWT cookie auth with silent token rotation                │
-│  ✦ drf-spectacular Swagger docs                              │
-│  ✦ Cloudinary media management with cleanup on delete        │
-│  ✦ Consistent { data, error } response envelope              │
-└──────────────────────────────────────────────────────────────┘
-```
+| Layer | Technologies |
+|---|---|
+| **Frontend** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="14"/> React &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="14"/> JavaScript &nbsp; <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="14"/> Tailwind &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="14"/> HTML &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="14"/> CSS |
+| **Backend** | <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="14"/> Django REST Framework &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="14"/> Python &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="14"/> PostgreSQL &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" height="14"/> Redis |
+| **Infra** | <img src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" height="14"/> Nginx &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/gunicorn.svg" height="14"/> Gunicorn &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="14"/> Linux &nbsp; <img src="https://img.favpng.com/4/24/5/vercel-logo-Ktvp2MN7_t.jpg" height="14"/> Vercel &nbsp; <img src="https://images.seeklogo.com/logo-png/65/2/cloudinary-logo-png_seeklogo-653240.png" height="14"/> Cloudinary &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="14"/> Git |
 
 ---
 
-## `// github stats`
+### Featured — OrcaTravel
+
+> Full-stack travel booking platform · React + Django REST Framework
+
+- JWT cookie auth with silent token rotation middleware
+- Cursor-based pagination with `{ data, error, nextCursor }` response envelope
+- Split view architecture — organized vs. customized packages & reservations
+- drf-spectacular Swagger docs with per-resource tags and access-level labels
+- Cloudinary media with automatic cleanup on delete
+
+---
+
+### Stats
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=chabani-samy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0f&title_color=60a5fa&icon_color=a78bfa&text_color=94a3b8" />
-&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chabani-samy&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0f&title_color=60a5fa&text_color=94a3b8" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=chabani-samy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e2e8f0&icon_color=4ade80&text_color=64748b&ring_color=3b82f6" />
+&nbsp;&nbsp;
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chabani-samy&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e2e8f0&text_color=64748b" />
 
 </div>
 
 ---
 
-## `// connect`
-
-<p>
-<a href="https://linkedin.com/in/chabani-samy">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://fb.com/chabani.mohamed.samy">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://samydev.tech">
-<img src="https://img.shields.io/badge/Portfolio-samydev.tech-a78bfa?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:chabanimohamedsamy@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
-<br/>
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1e3a5f,100:0a0a0f&height=80&section=footer&text=&animation=fadeIn" width="100%"/>
-
-```
-/* built with caffeine and too many git commits */
-```
+<sub>Algeria · building things that actually ship</sub>
 </div>
