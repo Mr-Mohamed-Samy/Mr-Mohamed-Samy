@@ -18,7 +18,7 @@
 
 ### About
 
-CS student at **Université Batna 2**, specializing in AI. I build and ship full-stack web apps with production-grade backend systems — JWT auth, cursor-based pagination, structured API responses, VPS deployment. Currently deep in **OrcaTravel**, a travel booking platform built with React + Django REST Framework.
+CS student at **Université Batna 2**, specializing in AI. I build and ship full-stack web apps with production-grade backend systems, JWT auth, cursor-based pagination, structured API responses, VPS deployment. Currently deep in **OrcaTravel**, a travel booking platform built with React + Django REST Framework.
 
 ---
 
